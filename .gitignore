@@ -1,0 +1,5 @@
+*.sublime-workspace
+venv
+
+.idea/**/*.xml
+src/chopmon.egg-info/
